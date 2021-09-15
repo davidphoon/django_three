@@ -1,0 +1,6 @@
+add new file to github
+
+
+git add newfile
+git commit -m "updated file"
+git push
