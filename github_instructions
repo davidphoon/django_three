@@ -1,0 +1,10 @@
+git commands to upload files
+
+in directory to upload to github
+
+git commit -m "first commit"
+
+(copy from github the url of the created repository)
+git remote add origin https://github.com/davidphoon/django_three.git
+
+git push -u origin main -f
